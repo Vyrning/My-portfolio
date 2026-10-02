@@ -47,18 +47,11 @@ You must follow the documentation setp by step in this order to do a successful 
 
 If you are using a GitHub repo then you can go with free-of-cost and easy-to-use options like [Vercel](https://vercel.com/), or [Netlify](https://netlify.com/) they offer decent-free tiers for Next.js hosting.
 
-#### If you are using Prisma ORM (Comes with All Starter Templates)
-
-Make sure to edit build command like this while you use Prisma as ORM while deploying to Vercel.
-
-![prisma-vercel](https://nextjstemplates.com/docs/prisma-vercel.png)
-
 ### Update Logs
 
 **December 2025:**
 
 - Updated to Next.js v16
-- Updated to Prisma v7
 
 **March 2025:**
 
@@ -79,7 +72,6 @@ Make sure to edit build command like this while you use Prisma as ORM while depl
 
 **February 2024:**
 
-- Updated Stripe Integraion: Loading pricing data from pricingData file
 
 **March 2024:**
 
